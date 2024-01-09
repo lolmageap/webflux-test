@@ -1,0 +1,23 @@
+###
+GET http://localhost:8080/books
+
+###
+GET http://localhost:8080/books/4
+
+###
+POST http://localhost:8080/books
+Content-Type: application/json
+
+{
+  "name" : "코믹메이플 스토리",
+  "price" : 1000
+}
+
+###
+DELETE http://localhost:8080/books/4
+
+###
+GET http://localhost:8080/books/block
+
+###
+GET http://localhost:8080/books/nonblock
