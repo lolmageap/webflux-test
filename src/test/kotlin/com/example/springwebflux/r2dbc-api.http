@@ -1,0 +1,12 @@
+###
+GET http://localhost:8080/{{name}}
+Content-Type: application/json
+
+###
+POST http://localhost:8080
+Content-Type: application/json
+
+{
+  "name" : "디델리 치즈라볶이",
+  "price" : 8500
+}
