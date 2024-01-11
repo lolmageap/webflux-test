@@ -1,4 +1,4 @@
-package com.example.springwebflux
+package com.example.springwebflux.nodb
 
 import org.springframework.web.bind.annotation.DeleteMapping
 import org.springframework.web.bind.annotation.GetMapping
