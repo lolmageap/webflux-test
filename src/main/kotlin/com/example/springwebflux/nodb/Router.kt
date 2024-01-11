@@ -1,4 +1,4 @@
-package com.example.springwebflux
+package com.example.springwebflux.nodb
 
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration

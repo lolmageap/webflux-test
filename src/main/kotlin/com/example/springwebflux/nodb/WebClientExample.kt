@@ -1,4 +1,4 @@
-package com.example.springwebflux
+package com.example.springwebflux.nodb
 
 import org.slf4j.LoggerFactory
 import org.springframework.core.ParameterizedTypeReference
