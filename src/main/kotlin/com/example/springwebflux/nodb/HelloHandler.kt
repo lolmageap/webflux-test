@@ -1,4 +1,4 @@
-package com.example.springwebflux
+package com.example.springwebflux.nodb
 
 import org.springframework.stereotype.Component
 import org.springframework.web.reactive.function.server.ServerRequest
